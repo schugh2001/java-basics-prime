@@ -27,5 +27,6 @@ public class isprimeandrange{
             }
             
         }
+        System.out.print("BOBYEEEEEEEE              BALLLLABHGARHHHHHHHHHHHHHHHHHHHHHHHHH");
     }
 }
